@@ -1,7 +1,10 @@
-#include <iostream>
+#include<iostream>
+
+void basic_operationes_refactor();
 
 int main(){
-    std :: cout << "Hello world" << std::endl;
-    std :: cin.get();
+
+    basic_operationes_refactor();
+
     return 0;
 }

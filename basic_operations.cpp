@@ -1,5 +1,4 @@
 #include <iostream>
-
 void basic_operations_refactor();
 
 int main(){
